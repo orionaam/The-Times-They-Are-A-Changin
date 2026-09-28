@@ -10,4 +10,3 @@ We construct the first large-scale longitudinal dataset of Google "Year in Searc
 |---|---|
 | Source | Google "Year in Search" (public country pages) |
 | Full coverage | 2001-2025, up to 89 countries |
-| Taxonomy | 11 categories |
